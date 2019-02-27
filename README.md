@@ -1,1 +1,1 @@
-How to implement images depends on condition in WPF
+How to display images depends on condition in WPF
